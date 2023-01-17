@@ -1,3 +1,3 @@
 # natours
 
-## [preview](https://natours-sulaiman.netlify.app/)
+## [preview](https://natourssulaiman.netlify.app/)
